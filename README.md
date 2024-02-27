@@ -1,16 +1,31 @@
-### Hi there 👋
+🚀 **Rihana Iqbal | Computer Science Enthusiast**
 
-<!--
-**RIHANA836/RIHANA836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! 👋 I'm Rihana Iqbal, a passionate B.Tech student majoring in Computer Science. 🎓 My journey is fueled by a potent blend of robust technical expertise and refined soft skills. 🌐
 
-Here are some ideas to get you started:
+### 💻 Technical Proficiency:
+- **Languages:** Python, Java, C, HTML, CSS
+- **Data Tools:** NumPy, Pandas, Tableau, SQL, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skill Set:
+- **Development:** HTML, CSS, Python, Java, C
+- **Data Science:** NumPy, Pandas, SQL
+- **Visualization:** Tableau, Excel
+
+### 🌟 Strengths:
+- **Leadership:** Proven track record in leading and inspiring teams.
+- **Team Building:** Cultivating collaborative environments for shared success.
+- **Determination:** A relentless drive to overcome challenges and achieve goals.
+
+### 🚀 Key Highlights:
+- Actively pursuing B.Tech in Computer Science.
+- Constantly enhancing my skills through hands-on experiences.
+- Committed to continuous learning and innovation.
+
+### 📈 Vision:
+I aspire to contribute my diverse skill set to dynamic tech environments, bringing innovation and efficiency to the forefront. My GitHub repositories showcase my commitment to excellence and growth.
+
+### 🌐 Let's Connect:
+- LinkedIn: [linkedin.com/in/rihana-iqbal-817541211/](#) 🌐
+- Email: rihanaiqbal2002@gmail.com 📧
+
+I'm excited about the potential of collaboration and growth. Let's build the future together! 🚀
