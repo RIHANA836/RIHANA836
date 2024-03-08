@@ -9,7 +9,7 @@ Welcome to my GitHub space! 👋 I'm Rihana Iqbal, a passionate B.Tech student m
 ### 🛠️ Skill Set:
 - **Development:** HTML, CSS, Python, Java, C
 - **Data Science:** NumPy, Pandas, SQL
-- **Visualization:** Tableau, Excel
+- **Visualization:** Matplotlib,PowerBI,Tableau, Excel
 
 ### 🌟 Strengths:
 - **Leadership:** Proven track record in leading and inspiring teams.
