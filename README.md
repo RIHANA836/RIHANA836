@@ -1,6 +1,6 @@
 🚀 **Rihana Iqbal | Computer Science Enthusiast**
 
-Welcome to my GitHub space! 👋 I'm Rihana Iqbal, a passionate B.Tech student majoring in Computer Science. 🎓 My journey is fueled by a potent blend of robust technical expertise and refined soft skills. 🌐
+Welcome to my GitHub space! 👋 I'm Rihana Iqbal, a B.Tech graduate in Computer Science. 🎓 My journey is fueled by a potent blend of robust technical expertise and refined soft skills. 🌐
 
 ### 💻 Technical Proficiency:
 - **Languages:** Python, Java, C, HTML, CSS
