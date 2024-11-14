@@ -1,15 +1,15 @@
-🚀 **Rihana Iqbal | Computer Science Enthusiast**
+🚀 **Rihana Iqbal | Data Scientist**
 
-Welcome to my GitHub space! 👋 I'm Rihana Iqbal, a B.Tech graduate in Computer Science. 🎓 My journey is fueled by a potent blend of robust technical expertise and refined soft skills. 🌐
+Welcome to my GitHub space! 👋 I'm Rihana Iqbal, a B.Tech graduate in Computer Science and Engineering. 🎓 My journey is fueled by a potent blend of robust technical expertise and refined soft skills, with a passion for data science and problem-solving. 🌐
 
 ### 💻 Technical Proficiency:
-- **Languages:** Python, Java, C, HTML, CSS
-- **Data Tools:** NumPy, Pandas, Tableau, SQL, Excel
+- **Languages:** Python, C
+- **Data Tools:** NumPy, Pandas
 
 ### 🛠️ Skill Set:
-- **Development:** HTML, CSS, Python, Java, C
-- **Data Science:** NumPy, Pandas, SQL
-- **Visualization:** Matplotlib,PowerBI,Tableau, Excel
+- **Development:** Python, C
+- **Data Science:** NumPy, Pandas
+- **Visualization:** Matplotlib, Seaborn
 
 ### 🌟 Strengths:
 - **Leadership:** Proven track record in leading and inspiring teams.
@@ -17,7 +17,7 @@ Welcome to my GitHub space! 👋 I'm Rihana Iqbal, a B.Tech graduate in Computer
 - **Determination:** A relentless drive to overcome challenges and achieve goals.
 
 ### 🚀 Key Highlights:
-- Actively pursuing B.Tech in Computer Science.
+- B.Tech graduate in Computer Science and Engineering.
 - Constantly enhancing my skills through hands-on experiences.
 - Committed to continuous learning and innovation.
 
